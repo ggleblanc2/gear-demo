@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Recently on Stack Overflow, a stgudent posted abouit his project to create a [gear simulator](https://stackoverflow.com/questions/75462877/how-to-rotate-images-every-tick#comment133147815_75462877).  It sounded like a good idea for a project, so I decided to give it a try.
+Recently on Stack Overflow, a student posted abouit his project to create a [gear simulator](https://stackoverflow.com/questions/75462877/how-to-rotate-images-every-tick#comment133147815_75462877).  It sounded like a good idea for a project, so I decided to give it a try.
 
 Here's the GUI I came up with.  The gear demonstration starts with one gear in the center of the drawing panel.
 
